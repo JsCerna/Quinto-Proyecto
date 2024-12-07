@@ -14,7 +14,7 @@ const footer = () => {
     <p class="card-text"><FaFacebook/> <FaInstagram/> <FaTelegramPlane/> <FaTwitter/> <FaWhatsapp/> </p>
   </div>
   <div class="card-footer text-muted">
-    Desarrollado por José Cerna & Esteban Poblete
+    Desarrollado por José Cerna
   </div>
  </div>
 </footer>
